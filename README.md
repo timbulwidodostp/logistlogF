@@ -1,6 +1,8 @@
 # logistlogF
 Log-F-Penalized Logistic and Conditional Logistic Regression Use logistlogF With (In) R Software
 
+https://www.youtube.com/watch?v=Lb1nkZXMZrw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
